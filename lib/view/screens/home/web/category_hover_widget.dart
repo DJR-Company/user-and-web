@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/category_model.dart';
-import 'package:flutter_grocery/helper/route_helper.dart';
-import 'package:flutter_grocery/utill/color_resources.dart';
-import 'package:flutter_grocery/utill/dimensions.dart';
-import 'package:flutter_grocery/view/base/text_hover.dart';
+import 'package:djr_shopping/data/model/response/category_model.dart';
+import 'package:djr_shopping/helper/route_helper.dart';
+import 'package:djr_shopping/utill/color_resources.dart';
+import 'package:djr_shopping/utill/dimensions.dart';
+import 'package:djr_shopping/view/base/text_hover.dart';
 
 class CategoryHoverWidget extends StatelessWidget {
   final List<CategoryModel> categoryList;

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/helper/responsive_helper.dart';
-import 'package:flutter_grocery/utill/dimensions.dart';
+import 'package:djr_shopping/helper/responsive_helper.dart';
+import 'package:djr_shopping/utill/dimensions.dart';
 
 void showCustomSnackBar(String message, BuildContext context, {bool isError = true}) {
   ScaffoldMessenger.of(context).clearSnackBars();

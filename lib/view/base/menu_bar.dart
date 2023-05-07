@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/helper/route_helper.dart';
-import 'package:flutter_grocery/localization/language_constrants.dart';
-import 'package:flutter_grocery/provider/auth_provider.dart';
-import 'package:flutter_grocery/view/base/mars_menu_bar.dart';
+import 'package:djr_shopping/helper/route_helper.dart';
+import 'package:djr_shopping/localization/language_constrants.dart';
+import 'package:djr_shopping/provider/auth_provider.dart';
+import 'package:djr_shopping/view/base/mars_menu_bar.dart';
 import 'package:provider/provider.dart';
 class MenuBarWidget extends StatelessWidget {
   List<MenuItems> getMenus(BuildContext context) {

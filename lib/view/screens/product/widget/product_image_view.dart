@@ -1,13 +1,13 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/product_model.dart';
-import 'package:flutter_grocery/helper/responsive_helper.dart';
-import 'package:flutter_grocery/helper/route_helper.dart';
-import 'package:flutter_grocery/provider/product_provider.dart';
-import 'package:flutter_grocery/provider/splash_provider.dart';
-import 'package:flutter_grocery/utill/color_resources.dart';
-import 'package:flutter_grocery/utill/images.dart';
+import 'package:djr_shopping/data/model/response/product_model.dart';
+import 'package:djr_shopping/helper/responsive_helper.dart';
+import 'package:djr_shopping/helper/route_helper.dart';
+import 'package:djr_shopping/provider/product_provider.dart';
+import 'package:djr_shopping/provider/splash_provider.dart';
+import 'package:djr_shopping/utill/color_resources.dart';
+import 'package:djr_shopping/utill/images.dart';
 import 'package:provider/provider.dart';
 
 import '../image_zoom_screen.dart';

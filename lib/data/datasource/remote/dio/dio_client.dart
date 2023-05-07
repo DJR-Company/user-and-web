@@ -1,9 +1,9 @@
 import 'dart:io';
 
 import 'package:dio/dio.dart';
-import 'package:flutter_grocery/data/datasource/remote/dio/logging_interceptor.dart';
-import 'package:flutter_grocery/helper/responsive_helper.dart';
-import 'package:flutter_grocery/utill/app_constants.dart';
+import 'package:djr_shopping/data/datasource/remote/dio/logging_interceptor.dart';
+import 'package:djr_shopping/helper/responsive_helper.dart';
+import 'package:djr_shopping/utill/app_constants.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class DioClient {

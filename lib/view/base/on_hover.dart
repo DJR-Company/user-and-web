@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/utill/color_resources.dart';
+import 'package:djr_shopping/utill/color_resources.dart';
 
 class OnHover extends StatefulWidget {
   final Widget child;

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'dart:math' as math;
 
-import 'package:flutter_grocery/helper/responsive_helper.dart';
-import 'package:flutter_grocery/main.dart';
+import 'package:djr_shopping/helper/responsive_helper.dart';
+import 'package:djr_shopping/main.dart';
 
 void showAnimatedDialog(BuildContext context, Widget dialog, {bool isFlip = false, bool dismissible = true}) {
   showGeneralDialog(

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/helper/responsive_helper.dart';
-import 'package:flutter_grocery/localization/language_constrants.dart';
-import 'package:flutter_grocery/utill/color_resources.dart';
-import 'package:flutter_grocery/utill/dimensions.dart';
-import 'package:flutter_grocery/utill/styles.dart';
+import 'package:djr_shopping/helper/responsive_helper.dart';
+import 'package:djr_shopping/localization/language_constrants.dart';
+import 'package:djr_shopping/utill/color_resources.dart';
+import 'package:djr_shopping/utill/dimensions.dart';
+import 'package:djr_shopping/utill/styles.dart';
 
 class TitleWidget extends StatelessWidget {
   final String title;

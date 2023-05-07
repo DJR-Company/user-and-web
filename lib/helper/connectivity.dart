@@ -1,8 +1,8 @@
 import 'package:connectivity/connectivity.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/localization/language_constrants.dart';
-import 'package:flutter_grocery/provider/splash_provider.dart';
-import 'package:flutter_grocery/view/base/custom_snackbar.dart';
+import 'package:djr_shopping/localization/language_constrants.dart';
+import 'package:djr_shopping/provider/splash_provider.dart';
+import 'package:djr_shopping/view/base/custom_snackbar.dart';
 import 'package:provider/provider.dart';
 
 class NetworkInfo {

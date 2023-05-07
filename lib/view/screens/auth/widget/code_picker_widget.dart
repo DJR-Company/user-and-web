@@ -3,7 +3,7 @@ import 'package:country_code_picker/country_code.dart';
 import 'package:country_code_picker/country_codes.dart';
 import 'package:country_code_picker/selection_dialog.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/utill/dimensions.dart';
+import 'package:djr_shopping/utill/dimensions.dart';
 
 class CodePickerWidget extends StatefulWidget {
   final ValueChanged<CountryCode> onChanged;

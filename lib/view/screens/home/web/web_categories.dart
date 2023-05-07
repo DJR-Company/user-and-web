@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/localization/language_constrants.dart';
-import 'package:flutter_grocery/provider/category_provider.dart';
-import 'package:flutter_grocery/provider/localization_provider.dart';
-import 'package:flutter_grocery/view/screens/home/widget/category_view.dart';
+import 'package:djr_shopping/localization/language_constrants.dart';
+import 'package:djr_shopping/provider/category_provider.dart';
+import 'package:djr_shopping/provider/localization_provider.dart';
+import 'package:djr_shopping/view/screens/home/widget/category_view.dart';
 import 'package:provider/provider.dart';
 
 import 'array_button.dart';

@@ -1,4 +1,4 @@
-# flutter_grocery
+# djr_shopping
 
 A new Flutter application.
 

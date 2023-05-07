@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/base/api_response.dart';
-import 'package:flutter_grocery/data/model/response/product_model.dart';
-import 'package:flutter_grocery/data/repository/search_repo.dart';
-import 'package:flutter_grocery/helper/api_checker.dart';
-import 'package:flutter_grocery/provider/localization_provider.dart';
+import 'package:djr_shopping/data/model/response/base/api_response.dart';
+import 'package:djr_shopping/data/model/response/product_model.dart';
+import 'package:djr_shopping/data/repository/search_repo.dart';
+import 'package:djr_shopping/helper/api_checker.dart';
+import 'package:djr_shopping/provider/localization_provider.dart';
 import 'package:provider/provider.dart';
 
 class SearchProvider with ChangeNotifier {

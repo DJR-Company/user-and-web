@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/language_model.dart';
-import 'package:flutter_grocery/data/repository/language_repo.dart';
+import 'package:djr_shopping/data/model/response/language_model.dart';
+import 'package:djr_shopping/data/repository/language_repo.dart';
 
 class LanguageProvider with ChangeNotifier {
   final LanguageRepo languageRepo;

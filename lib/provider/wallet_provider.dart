@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/base/api_response.dart';
-import 'package:flutter_grocery/data/model/response/wallet_model.dart';
-import 'package:flutter_grocery/data/repository/wallet_repo.dart';
-import 'package:flutter_grocery/helper/api_checker.dart';
-import 'package:flutter_grocery/localization/language_constrants.dart';
-import 'package:flutter_grocery/main.dart';
-import 'package:flutter_grocery/utill/images.dart';
-import 'package:flutter_grocery/view/screens/wallet/wallet_screen.dart';
+import 'package:djr_shopping/data/model/response/base/api_response.dart';
+import 'package:djr_shopping/data/model/response/wallet_model.dart';
+import 'package:djr_shopping/data/repository/wallet_repo.dart';
+import 'package:djr_shopping/helper/api_checker.dart';
+import 'package:djr_shopping/localization/language_constrants.dart';
+import 'package:djr_shopping/main.dart';
+import 'package:djr_shopping/utill/images.dart';
+import 'package:djr_shopping/view/screens/wallet/wallet_screen.dart';
 import 'package:provider/provider.dart';
 
 import 'profile_provider.dart';

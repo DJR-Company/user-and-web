@@ -1,14 +1,14 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/address_model.dart';
-import 'package:flutter_grocery/data/model/response/config_model.dart';
-import 'package:flutter_grocery/localization/language_constrants.dart';
-import 'package:flutter_grocery/provider/location_provider.dart';
-import 'package:flutter_grocery/provider/order_provider.dart';
-import 'package:flutter_grocery/provider/splash_provider.dart';
-import 'package:flutter_grocery/utill/dimensions.dart';
-import 'package:flutter_grocery/view/base/custom_button.dart';
-import 'package:flutter_grocery/view/base/custom_snackbar.dart';
+import 'package:djr_shopping/data/model/response/address_model.dart';
+import 'package:djr_shopping/data/model/response/config_model.dart';
+import 'package:djr_shopping/localization/language_constrants.dart';
+import 'package:djr_shopping/provider/location_provider.dart';
+import 'package:djr_shopping/provider/order_provider.dart';
+import 'package:djr_shopping/provider/splash_provider.dart';
+import 'package:djr_shopping/utill/dimensions.dart';
+import 'package:djr_shopping/view/base/custom_button.dart';
+import 'package:djr_shopping/view/base/custom_snackbar.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:provider/provider.dart';
 

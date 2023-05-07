@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/utill/color_resources.dart';
-import 'package:flutter_grocery/utill/dimensions.dart';
+import 'package:djr_shopping/utill/color_resources.dart';
+import 'package:djr_shopping/utill/dimensions.dart';
 import 'package:shimmer_animation/shimmer_animation.dart';
 
 class ProductShimmer extends StatelessWidget {

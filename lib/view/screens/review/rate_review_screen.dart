@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/order_details_model.dart';
-import 'package:flutter_grocery/data/model/response/order_model.dart';
-import 'package:flutter_grocery/helper/responsive_helper.dart';
-import 'package:flutter_grocery/localization/language_constrants.dart';
-import 'package:flutter_grocery/provider/order_provider.dart';
-import 'package:flutter_grocery/utill/color_resources.dart';
-import 'package:flutter_grocery/utill/dimensions.dart';
-import 'package:flutter_grocery/utill/styles.dart';
-import 'package:flutter_grocery/view/base/custom_app_bar.dart';
-import 'package:flutter_grocery/view/screens/review/widget/deliver_man_review_widget.dart';
-import 'package:flutter_grocery/view/screens/review/widget/product_review_widget.dart';
+import 'package:djr_shopping/data/model/response/order_details_model.dart';
+import 'package:djr_shopping/data/model/response/order_model.dart';
+import 'package:djr_shopping/helper/responsive_helper.dart';
+import 'package:djr_shopping/localization/language_constrants.dart';
+import 'package:djr_shopping/provider/order_provider.dart';
+import 'package:djr_shopping/utill/color_resources.dart';
+import 'package:djr_shopping/utill/dimensions.dart';
+import 'package:djr_shopping/utill/styles.dart';
+import 'package:djr_shopping/view/base/custom_app_bar.dart';
+import 'package:djr_shopping/view/screens/review/widget/deliver_man_review_widget.dart';
+import 'package:djr_shopping/view/screens/review/widget/product_review_widget.dart';
 import 'package:provider/provider.dart';
 import '../../base/web_app_bar/web_app_bar.dart';
 

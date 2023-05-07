@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/config_model.dart';
-import 'package:flutter_grocery/data/model/response/product_model.dart';
-import 'package:flutter_grocery/main.dart';
-import 'package:flutter_grocery/provider/splash_provider.dart';
+import 'package:djr_shopping/data/model/response/config_model.dart';
+import 'package:djr_shopping/data/model/response/product_model.dart';
+import 'package:djr_shopping/main.dart';
+import 'package:djr_shopping/provider/splash_provider.dart';
 import 'package:provider/provider.dart';
 
 class PriceConverter {

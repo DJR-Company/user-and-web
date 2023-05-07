@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/provider/cart_provider.dart';
-import 'package:flutter_grocery/provider/splash_provider.dart';
-import 'package:flutter_grocery/utill/images.dart';
-import 'package:flutter_grocery/view/screens/menu/menu_screen.dart';
+import 'package:djr_shopping/provider/cart_provider.dart';
+import 'package:djr_shopping/provider/splash_provider.dart';
+import 'package:djr_shopping/utill/images.dart';
+import 'package:djr_shopping/view/screens/menu/menu_screen.dart';
 import 'package:provider/provider.dart';
 
 class DetailsAppBar extends StatefulWidget implements PreferredSizeWidget {

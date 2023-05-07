@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/helper/route_helper.dart';
-import 'package:flutter_grocery/provider/category_provider.dart';
-import 'package:flutter_grocery/provider/localization_provider.dart';
-import 'package:flutter_grocery/provider/theme_provider.dart';
-import 'package:flutter_grocery/utill/styles.dart';
-import 'package:flutter_grocery/view/base/on_hover.dart';
-import 'package:flutter_grocery/view/base/text_hover.dart';
+import 'package:djr_shopping/helper/route_helper.dart';
+import 'package:djr_shopping/provider/category_provider.dart';
+import 'package:djr_shopping/provider/localization_provider.dart';
+import 'package:djr_shopping/provider/theme_provider.dart';
+import 'package:djr_shopping/utill/styles.dart';
+import 'package:djr_shopping/view/base/on_hover.dart';
+import 'package:djr_shopping/view/base/text_hover.dart';
 import 'package:provider/provider.dart';
 
 import '../../../../../provider/splash_provider.dart';

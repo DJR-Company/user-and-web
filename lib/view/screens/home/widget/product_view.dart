@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/product_model.dart';
-import 'package:flutter_grocery/helper/product_type.dart';
-import 'package:flutter_grocery/helper/responsive_helper.dart';
-import 'package:flutter_grocery/localization/language_constrants.dart';
-import 'package:flutter_grocery/provider/localization_provider.dart';
-import 'package:flutter_grocery/provider/product_provider.dart';
-import 'package:flutter_grocery/utill/dimensions.dart';
-import 'package:flutter_grocery/utill/styles.dart';
-import 'package:flutter_grocery/view/base/custom_loader.dart';
-import 'package:flutter_grocery/view/base/no_data_screen.dart';
-import 'package:flutter_grocery/view/base/product_shimmer.dart';
-import 'package:flutter_grocery/view/base/product_widget.dart';
-import 'package:flutter_grocery/view/base/web_product_shimmer.dart';
+import 'package:djr_shopping/data/model/response/product_model.dart';
+import 'package:djr_shopping/helper/product_type.dart';
+import 'package:djr_shopping/helper/responsive_helper.dart';
+import 'package:djr_shopping/localization/language_constrants.dart';
+import 'package:djr_shopping/provider/localization_provider.dart';
+import 'package:djr_shopping/provider/product_provider.dart';
+import 'package:djr_shopping/utill/dimensions.dart';
+import 'package:djr_shopping/utill/styles.dart';
+import 'package:djr_shopping/view/base/custom_loader.dart';
+import 'package:djr_shopping/view/base/no_data_screen.dart';
+import 'package:djr_shopping/view/base/product_shimmer.dart';
+import 'package:djr_shopping/view/base/product_widget.dart';
+import 'package:djr_shopping/view/base/web_product_shimmer.dart';
 import 'package:provider/provider.dart';
 
 class ProductView extends StatefulWidget {

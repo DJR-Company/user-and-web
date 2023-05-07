@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/product_model.dart';
-import 'package:flutter_grocery/localization/language_constrants.dart';
-import 'package:flutter_grocery/provider/wishlist_provider.dart';
-import 'package:flutter_grocery/view/base/custom_snackbar.dart';
+import 'package:djr_shopping/data/model/response/product_model.dart';
+import 'package:djr_shopping/localization/language_constrants.dart';
+import 'package:djr_shopping/provider/wishlist_provider.dart';
+import 'package:djr_shopping/view/base/custom_snackbar.dart';
 import 'package:provider/provider.dart';
 
 import '../../provider/auth_provider.dart';

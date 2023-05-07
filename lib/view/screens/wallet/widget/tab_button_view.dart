@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/provider/wallet_provider.dart';
-import 'package:flutter_grocery/utill/dimensions.dart';
-import 'package:flutter_grocery/utill/styles.dart';
-import 'package:flutter_grocery/view/screens/wallet/wallet_screen.dart';
+import 'package:djr_shopping/provider/wallet_provider.dart';
+import 'package:djr_shopping/utill/dimensions.dart';
+import 'package:djr_shopping/utill/styles.dart';
+import 'package:djr_shopping/view/screens/wallet/wallet_screen.dart';
 import 'package:provider/provider.dart';
 
 class TabButtonView extends StatelessWidget {

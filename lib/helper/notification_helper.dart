@@ -5,11 +5,11 @@ import 'package:dio/dio.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/main.dart';
-import 'package:flutter_grocery/utill/app_constants.dart';
-import 'package:flutter_grocery/view/base/notification_dialog.dart';
-import 'package:flutter_grocery/view/screens/chat/chat_screen.dart';
-import 'package:flutter_grocery/view/screens/order/order_details_screen.dart';
+import 'package:djr_shopping/main.dart';
+import 'package:djr_shopping/utill/app_constants.dart';
+import 'package:djr_shopping/view/base/notification_dialog.dart';
+import 'package:djr_shopping/view/screens/chat/chat_screen.dart';
+import 'package:djr_shopping/view/screens/order/order_details_screen.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:path_provider/path_provider.dart';
 

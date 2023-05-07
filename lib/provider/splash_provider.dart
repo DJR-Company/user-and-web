@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/base/api_response.dart';
-import 'package:flutter_grocery/data/model/response/config_model.dart';
-import 'package:flutter_grocery/data/repository/splash_repo.dart';
-import 'package:flutter_grocery/provider/auth_provider.dart';
-import 'package:flutter_grocery/utill/app_constants.dart';
-import 'package:flutter_grocery/view/base/custom_snackbar.dart';
+import 'package:djr_shopping/data/model/response/base/api_response.dart';
+import 'package:djr_shopping/data/model/response/config_model.dart';
+import 'package:djr_shopping/data/repository/splash_repo.dart';
+import 'package:djr_shopping/provider/auth_provider.dart';
+import 'package:djr_shopping/utill/app_constants.dart';
+import 'package:djr_shopping/view/base/custom_snackbar.dart';
 import 'package:provider/provider.dart';
 
 class SplashProvider extends ChangeNotifier {

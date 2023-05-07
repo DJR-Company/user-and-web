@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/cart_model.dart';
-import 'package:flutter_grocery/data/repository/cart_repo.dart';
-import 'package:flutter_grocery/localization/language_constrants.dart';
-import 'package:flutter_grocery/view/base/custom_snackbar.dart';
+import 'package:djr_shopping/data/model/response/cart_model.dart';
+import 'package:djr_shopping/data/repository/cart_repo.dart';
+import 'package:djr_shopping/localization/language_constrants.dart';
+import 'package:djr_shopping/view/base/custom_snackbar.dart';
 class CartProvider extends ChangeNotifier {
   final CartRepo cartRepo;
   CartProvider({@required this.cartRepo});

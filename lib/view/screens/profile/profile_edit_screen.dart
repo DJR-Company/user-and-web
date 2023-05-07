@@ -1,20 +1,20 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/response_model.dart';
-import 'package:flutter_grocery/data/model/response/userinfo_model.dart';
-import 'package:flutter_grocery/helper/responsive_helper.dart';
-import 'package:flutter_grocery/localization/language_constrants.dart';
-import 'package:flutter_grocery/provider/auth_provider.dart';
-import 'package:flutter_grocery/provider/profile_provider.dart';
-import 'package:flutter_grocery/provider/splash_provider.dart';
-import 'package:flutter_grocery/utill/color_resources.dart';
-import 'package:flutter_grocery/utill/dimensions.dart';
-import 'package:flutter_grocery/utill/images.dart';
-import 'package:flutter_grocery/utill/styles.dart';
-import 'package:flutter_grocery/view/base/custom_loader.dart';
-import 'package:flutter_grocery/view/base/custom_snackbar.dart';
-import 'package:flutter_grocery/view/base/custom_text_field.dart';
-import 'package:flutter_grocery/view/base/web_app_bar/web_app_bar.dart';
-import 'package:flutter_grocery/view/screens/profile/web/profile_screen_web.dart';
+import 'package:djr_shopping/data/model/response/response_model.dart';
+import 'package:djr_shopping/data/model/response/userinfo_model.dart';
+import 'package:djr_shopping/helper/responsive_helper.dart';
+import 'package:djr_shopping/localization/language_constrants.dart';
+import 'package:djr_shopping/provider/auth_provider.dart';
+import 'package:djr_shopping/provider/profile_provider.dart';
+import 'package:djr_shopping/provider/splash_provider.dart';
+import 'package:djr_shopping/utill/color_resources.dart';
+import 'package:djr_shopping/utill/dimensions.dart';
+import 'package:djr_shopping/utill/images.dart';
+import 'package:djr_shopping/utill/styles.dart';
+import 'package:djr_shopping/view/base/custom_loader.dart';
+import 'package:djr_shopping/view/base/custom_snackbar.dart';
+import 'package:djr_shopping/view/base/custom_text_field.dart';
+import 'package:djr_shopping/view/base/web_app_bar/web_app_bar.dart';
+import 'package:djr_shopping/view/screens/profile/web/profile_screen_web.dart';
 import 'package:provider/provider.dart';
 
 class ProfileEditScreen extends StatefulWidget {

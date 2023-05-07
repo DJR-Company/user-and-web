@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/helper/responsive_helper.dart';
-import 'package:flutter_grocery/localization/language_constrants.dart';
-import 'package:flutter_grocery/utill/dimensions.dart';
-import 'package:flutter_grocery/view/base/custom_app_bar.dart';
-import 'package:flutter_grocery/view/base/main_app_bar.dart';
+import 'package:djr_shopping/helper/responsive_helper.dart';
+import 'package:djr_shopping/localization/language_constrants.dart';
+import 'package:djr_shopping/utill/dimensions.dart';
+import 'package:djr_shopping/view/base/custom_app_bar.dart';
+import 'package:djr_shopping/view/base/main_app_bar.dart';
 import 'package:flutter_widget_from_html_core/flutter_widget_from_html_core.dart';
 import 'package:universal_html/html.dart' as html;
 import 'package:universal_ui/universal_ui.dart';

@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/helper/price_converter.dart';
-import 'package:flutter_grocery/helper/route_helper.dart';
-import 'package:flutter_grocery/provider/product_provider.dart';
-import 'package:flutter_grocery/provider/splash_provider.dart';
-import 'package:flutter_grocery/utill/color_resources.dart';
-import 'package:flutter_grocery/utill/dimensions.dart';
-import 'package:flutter_grocery/utill/images.dart';
-import 'package:flutter_grocery/utill/styles.dart';
-import 'package:flutter_grocery/view/base/on_hover.dart';
-import 'package:flutter_grocery/view/screens/product/product_details_screen.dart';
+import 'package:djr_shopping/helper/price_converter.dart';
+import 'package:djr_shopping/helper/route_helper.dart';
+import 'package:djr_shopping/provider/product_provider.dart';
+import 'package:djr_shopping/provider/splash_provider.dart';
+import 'package:djr_shopping/utill/color_resources.dart';
+import 'package:djr_shopping/utill/dimensions.dart';
+import 'package:djr_shopping/utill/images.dart';
+import 'package:djr_shopping/utill/styles.dart';
+import 'package:djr_shopping/view/base/on_hover.dart';
+import 'package:djr_shopping/view/screens/product/product_details_screen.dart';
 import 'package:provider/provider.dart';
 class WebDailyItemView extends StatelessWidget {
   final ProductProvider productProvider;

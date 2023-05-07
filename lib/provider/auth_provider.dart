@@ -2,16 +2,16 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_facebook_auth/flutter_facebook_auth.dart';
-import 'package:flutter_grocery/data/model/response/base/api_response.dart';
-import 'package:flutter_grocery/data/model/response/base/error_response.dart';
-import 'package:flutter_grocery/data/model/response/response_model.dart';
-import 'package:flutter_grocery/data/model/response/signup_model.dart';
-import 'package:flutter_grocery/data/model/response/user_log_data.dart';
-import 'package:flutter_grocery/data/model/social_login_model.dart';
-import 'package:flutter_grocery/data/repository/auth_repo.dart';
-import 'package:flutter_grocery/localization/language_constrants.dart';
-import 'package:flutter_grocery/provider/splash_provider.dart';
-import 'package:flutter_grocery/view/base/custom_snackbar.dart';
+import 'package:djr_shopping/data/model/response/base/api_response.dart';
+import 'package:djr_shopping/data/model/response/base/error_response.dart';
+import 'package:djr_shopping/data/model/response/response_model.dart';
+import 'package:djr_shopping/data/model/response/signup_model.dart';
+import 'package:djr_shopping/data/model/response/user_log_data.dart';
+import 'package:djr_shopping/data/model/social_login_model.dart';
+import 'package:djr_shopping/data/repository/auth_repo.dart';
+import 'package:djr_shopping/localization/language_constrants.dart';
+import 'package:djr_shopping/provider/splash_provider.dart';
+import 'package:djr_shopping/view/base/custom_snackbar.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:provider/provider.dart';
 

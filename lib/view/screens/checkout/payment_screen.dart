@@ -4,15 +4,15 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/body/place_order_body.dart';
-import 'package:flutter_grocery/data/model/response/order_model.dart';
-import 'package:flutter_grocery/helper/route_helper.dart';
-import 'package:flutter_grocery/provider/cart_provider.dart';
-import 'package:flutter_grocery/provider/order_provider.dart';
-import 'package:flutter_grocery/utill/app_constants.dart';
-import 'package:flutter_grocery/view/base/custom_loader.dart';
-import 'package:flutter_grocery/view/base/custom_snackbar.dart';
-import 'package:flutter_grocery/view/screens/checkout/widget/cancel_dialog.dart';
+import 'package:djr_shopping/data/model/body/place_order_body.dart';
+import 'package:djr_shopping/data/model/response/order_model.dart';
+import 'package:djr_shopping/helper/route_helper.dart';
+import 'package:djr_shopping/provider/cart_provider.dart';
+import 'package:djr_shopping/provider/order_provider.dart';
+import 'package:djr_shopping/utill/app_constants.dart';
+import 'package:djr_shopping/view/base/custom_loader.dart';
+import 'package:djr_shopping/view/base/custom_snackbar.dart';
+import 'package:djr_shopping/view/screens/checkout/widget/cancel_dialog.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 import 'package:provider/provider.dart';
 

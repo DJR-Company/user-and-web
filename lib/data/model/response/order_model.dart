@@ -1,5 +1,5 @@
-import 'package:flutter_grocery/data/model/response/product_model.dart';
-import 'package:flutter_grocery/data/model/response/userinfo_model.dart';
+import 'package:djr_shopping/data/model/response/product_model.dart';
+import 'package:djr_shopping/data/model/response/userinfo_model.dart';
 
 class OrderModel {
   int _id;

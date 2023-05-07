@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/provider/chat_provider.dart';
-import 'package:flutter_grocery/utill/color_resources.dart';
+import 'package:djr_shopping/provider/chat_provider.dart';
+import 'package:djr_shopping/utill/color_resources.dart';
 import 'package:provider/provider.dart';
 import 'package:shimmer_animation/shimmer_animation.dart';
 

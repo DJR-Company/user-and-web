@@ -1,4 +1,4 @@
-import 'package:flutter_grocery/data/model/response/language_model.dart';
+import 'package:djr_shopping/data/model/response/language_model.dart';
 import 'images.dart';
 
 class AppConstants {

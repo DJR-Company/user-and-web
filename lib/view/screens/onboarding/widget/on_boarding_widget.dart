@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/onboarding_model.dart';
-import 'package:flutter_grocery/utill/dimensions.dart';
-import 'package:flutter_grocery/utill/styles.dart';
+import 'package:djr_shopping/data/model/response/onboarding_model.dart';
+import 'package:djr_shopping/utill/dimensions.dart';
+import 'package:djr_shopping/utill/styles.dart';
 
 class OnBoardingWidget extends StatelessWidget {
   final OnBoardingModel onBoardingModel;

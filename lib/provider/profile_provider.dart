@@ -1,12 +1,12 @@
 import 'dart:convert';
 import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/base/api_response.dart';
-import 'package:flutter_grocery/data/model/response/base/error_response.dart';
-import 'package:flutter_grocery/data/model/response/response_model.dart';
-import 'package:flutter_grocery/data/model/response/userinfo_model.dart';
-import 'package:flutter_grocery/data/repository/profile_repo.dart';
-import 'package:flutter_grocery/helper/api_checker.dart';
+import 'package:djr_shopping/data/model/response/base/api_response.dart';
+import 'package:djr_shopping/data/model/response/base/error_response.dart';
+import 'package:djr_shopping/data/model/response/response_model.dart';
+import 'package:djr_shopping/data/model/response/userinfo_model.dart';
+import 'package:djr_shopping/data/repository/profile_repo.dart';
+import 'package:djr_shopping/helper/api_checker.dart';
 import 'package:http/http.dart' as http;
 import 'package:image_picker/image_picker.dart';
 

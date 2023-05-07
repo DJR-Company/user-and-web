@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/helper/responsive_helper.dart';
-import 'package:flutter_grocery/provider/auth_provider.dart';
-import 'package:flutter_grocery/provider/wishlist_provider.dart';
-import 'package:flutter_grocery/utill/dimensions.dart';
-import 'package:flutter_grocery/view/base/app_bar_base.dart';
-import 'package:flutter_grocery/view/base/footer_view.dart';
-import 'package:flutter_grocery/view/base/no_data_screen.dart';
-import 'package:flutter_grocery/view/base/not_login_screen.dart';
-import 'package:flutter_grocery/view/base/product_widget.dart';
-import 'package:flutter_grocery/view/base/web_app_bar/web_app_bar.dart';
+import 'package:djr_shopping/helper/responsive_helper.dart';
+import 'package:djr_shopping/provider/auth_provider.dart';
+import 'package:djr_shopping/provider/wishlist_provider.dart';
+import 'package:djr_shopping/utill/dimensions.dart';
+import 'package:djr_shopping/view/base/app_bar_base.dart';
+import 'package:djr_shopping/view/base/footer_view.dart';
+import 'package:djr_shopping/view/base/no_data_screen.dart';
+import 'package:djr_shopping/view/base/not_login_screen.dart';
+import 'package:djr_shopping/view/base/product_widget.dart';
+import 'package:djr_shopping/view/base/web_app_bar/web_app_bar.dart';
 import 'package:provider/provider.dart';
 
 class WishListScreen extends StatefulWidget {

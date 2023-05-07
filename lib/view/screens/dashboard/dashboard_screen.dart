@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/localization/language_constrants.dart';
-import 'package:flutter_grocery/provider/splash_provider.dart';
-import 'package:flutter_grocery/utill/images.dart';
-import 'package:flutter_grocery/view/screens/address/address_screen.dart';
-import 'package:flutter_grocery/view/screens/cart/cart_screen.dart';
-import 'package:flutter_grocery/view/screens/category/all_category_screen.dart';
-import 'package:flutter_grocery/view/screens/chat/chat_screen.dart';
-import 'package:flutter_grocery/view/screens/coupon/coupon_screen.dart';
-import 'package:flutter_grocery/view/screens/home/home_screens.dart';
-import 'package:flutter_grocery/view/screens/order/my_order_screen.dart';
-import 'package:flutter_grocery/view/screens/settings/setting_screen.dart';
-import 'package:flutter_grocery/view/screens/wishlist/wishlist_screen.dart';
+import 'package:djr_shopping/localization/language_constrants.dart';
+import 'package:djr_shopping/provider/splash_provider.dart';
+import 'package:djr_shopping/utill/images.dart';
+import 'package:djr_shopping/view/screens/address/address_screen.dart';
+import 'package:djr_shopping/view/screens/cart/cart_screen.dart';
+import 'package:djr_shopping/view/screens/category/all_category_screen.dart';
+import 'package:djr_shopping/view/screens/chat/chat_screen.dart';
+import 'package:djr_shopping/view/screens/coupon/coupon_screen.dart';
+import 'package:djr_shopping/view/screens/home/home_screens.dart';
+import 'package:djr_shopping/view/screens/order/my_order_screen.dart';
+import 'package:djr_shopping/view/screens/settings/setting_screen.dart';
+import 'package:djr_shopping/view/screens/wishlist/wishlist_screen.dart';
 import 'package:provider/provider.dart';
 
 class DashboardScreen extends StatefulWidget {

@@ -1,9 +1,9 @@
 
-import 'package:flutter_grocery/data/model/response/base/api_response.dart';
-import 'package:flutter_grocery/data/model/response/chat_model.dart';
-import 'package:flutter_grocery/data/model/response/order_model.dart';
-import 'package:flutter_grocery/data/repository/chat_repo.dart';
-import 'package:flutter_grocery/helper/api_checker.dart';
+import 'package:djr_shopping/data/model/response/base/api_response.dart';
+import 'package:djr_shopping/data/model/response/chat_model.dart';
+import 'package:djr_shopping/data/model/response/order_model.dart';
+import 'package:djr_shopping/data/repository/chat_repo.dart';
+import 'package:djr_shopping/helper/api_checker.dart';
 import 'package:http/http.dart' as http;
 
 import 'package:flutter/material.dart';

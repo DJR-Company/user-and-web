@@ -1,11 +1,11 @@
 import 'dart:convert';
-import 'package:flutter_grocery/data/model/body/place_order_body.dart';
-import 'package:flutter_grocery/helper/route_helper.dart';
-import 'package:flutter_grocery/provider/cart_provider.dart';
-import 'package:flutter_grocery/provider/order_provider.dart';
-import 'package:flutter_grocery/view/base/custom_loader.dart';
-import 'package:flutter_grocery/view/base/custom_snackbar.dart';
-import 'package:flutter_grocery/view/base/web_app_bar/web_app_bar.dart';
+import 'package:djr_shopping/data/model/body/place_order_body.dart';
+import 'package:djr_shopping/helper/route_helper.dart';
+import 'package:djr_shopping/provider/cart_provider.dart';
+import 'package:djr_shopping/provider/order_provider.dart';
+import 'package:djr_shopping/view/base/custom_loader.dart';
+import 'package:djr_shopping/view/base/custom_snackbar.dart';
+import 'package:djr_shopping/view/base/web_app_bar/web_app_bar.dart';
 import 'package:universal_html/html.dart' as html;
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

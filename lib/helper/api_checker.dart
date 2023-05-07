@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/base/api_response.dart';
-import 'package:flutter_grocery/data/model/response/base/error_response.dart';
-import 'package:flutter_grocery/helper/route_helper.dart';
-import 'package:flutter_grocery/main.dart';
-import 'package:flutter_grocery/provider/splash_provider.dart';
-import 'package:flutter_grocery/view/base/custom_snackbar.dart';
-import 'package:flutter_grocery/view/screens/auth/login_screen.dart';
+import 'package:djr_shopping/data/model/response/base/api_response.dart';
+import 'package:djr_shopping/data/model/response/base/error_response.dart';
+import 'package:djr_shopping/helper/route_helper.dart';
+import 'package:djr_shopping/main.dart';
+import 'package:djr_shopping/provider/splash_provider.dart';
+import 'package:djr_shopping/view/base/custom_snackbar.dart';
+import 'package:djr_shopping/view/screens/auth/login_screen.dart';
 import 'package:provider/provider.dart';
 
 class ApiChecker {

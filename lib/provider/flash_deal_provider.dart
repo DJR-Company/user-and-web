@@ -1,10 +1,10 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:flutter_grocery/data/model/response/base/api_response.dart';
-import 'package:flutter_grocery/data/model/response/flash_deal_model.dart';
-import 'package:flutter_grocery/data/model/response/product_model.dart';
-import 'package:flutter_grocery/data/repository/flash_deal_repo.dart';
-import 'package:flutter_grocery/helper/api_checker.dart';
+import 'package:djr_shopping/data/model/response/base/api_response.dart';
+import 'package:djr_shopping/data/model/response/flash_deal_model.dart';
+import 'package:djr_shopping/data/model/response/product_model.dart';
+import 'package:djr_shopping/data/repository/flash_deal_repo.dart';
+import 'package:djr_shopping/helper/api_checker.dart';
 import 'package:intl/intl.dart';
 
 class FlashDealProvider extends ChangeNotifier {
